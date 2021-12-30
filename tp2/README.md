@@ -1,4 +1,4 @@
-# Compte Rendu TP2 et TP4 - POO, API et Outillages
+# Compte Rendu TP2- POO, API et Outillages
 
 ### Lien du projet GitHub : https://github.com/Natha687/POO_TP2
 
